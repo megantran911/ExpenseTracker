@@ -1,2 +1,2 @@
 # ExpenseTracker
-#React ưeb application to track, save, delete expenses
+React web application to track, save, delete expenses
